@@ -1,0 +1,68 @@
+{
+  "proyecto": {
+    "nombre": "Prana Towers",
+    "slogan_propuesto": "Eleva tu vida. Invierte en tu bienestar.",
+    "ubicacion": "Zona de alta plusvalía, [Ciudad]",
+    "precio_desde_mxn": 3200000,
+    "unidades_totales": 120,
+    "tipologias": [
+      {
+        "nombre": "Suite Zen",
+        "recamaras": 1,
+        "m2": 75
+      },
+      {
+        "nombre": "Apartamento Armonía",
+        "recamaras": 2,
+        "m2": 110
+      },
+      {
+        "nombre": "Penthouse Oasis",
+        "recamaras": 3,
+        "m2": 180,
+        "features": ["Roof garden privado", "Alberca infinity"]
+      }
+    ]
+  },
+  "perfiles_comprador": [
+    {
+      "perfil": "Inversionista Inteligente",
+      "edad_rango": "45-65",
+      "motivacion": "ROI, plusvalía, seguridad patrimonial.",
+      "dolor": "Bajos rendimientos en instrumentos tradicionales, volatilidad de la bolsa."
+    },
+    {
+      "perfil": "Familia Moderna",
+      "edad_rango": "35-50",
+      "motivacion": "Calidad de vida, seguridad, estatus, amenidades para la familia.",
+      "dolor": "Falta de espacios seguros y de lujo para vivir, largos traslados."
+    }
+  ],
+  "proyeccion_roi": [
+    {
+      "escenario": "Conservador",
+      "plusvalia_anual_proyectada": 0.08,
+      "rendimiento_alquiler_anual": 0.06
+    },
+    {
+      "escenario": "Moderado",
+      "plusvalia_anual_proyectada": 0.12,
+      "rendimiento_alquiler_anual": 0.07
+    },
+    {
+      "escenario": "Optimista",
+      "plusvalia_anual_proyectada": 0.15,
+      "rendimiento_alquiler_anual": 0.085
+    }
+  ],
+  "competencia": [
+    {
+      "nombre": "Torre Ambar",
+      "precio_m2_usd": 2200
+    },
+    {
+      "nombre": "Residencial Cima",
+      "precio_m2_usd": 2100
+    }
+  ]
+}
